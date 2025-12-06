@@ -4,7 +4,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 Here's an example of how the data looks (each class takes three-rows):
 
-![Fashion MNIST](fashion-mnist-img.png)
+![Fashion MNIST Image](images/fashion-mnist-img.png)
 
 ---
 
@@ -46,9 +46,7 @@ Dataset is automatically loaded via [`keras.datasets.fashion_mnist`](https://ker
 ## Sample Data Visualization
 Here’s an example grid showing **one sample per class** from the training set:
 
-![Fashion MNIST Samples](fashion-mnist-samples.png)
-
-*Note: You can expand this in your notebook to show three images per class for a fuller view.*
+![Fashion MNIST Samples](images/Sample_image.png)
 
 ---
 
